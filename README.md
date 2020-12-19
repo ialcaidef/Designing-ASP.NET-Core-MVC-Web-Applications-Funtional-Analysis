@@ -87,7 +87,7 @@ Cuando un cliente elimina una foto de la aplicación web, se llevan a cabo los s
 8.	Si el cliente confirma la eliminación, la foto se elimina de la base de datos junto con todos los comentarios al respecto.
 9.	La aplicación web muestra la galería de fotos al cliente.
  
- ![Casos de uso](/ruta/a/la/imagen.jpg)
+ ![Casos de uso](https://github.com/ialcaidef/Designing-ASP.NET-Core-MVC-Web-Applications-Funtional-Analysis/blob/main/CasosDeUso.png)
  
 Figura 1. Resumen de los casos de Uso
 
