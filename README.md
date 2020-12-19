@@ -14,9 +14,9 @@ Hemos entrevistado a miembros de la junta, clientes, administradores de aplicaci
 •	Transcripciones de entrevistas a clientes.   
 •	Algunas recomendaciones técnicas.   
 
-Los *Autores* esperan que este documento defina claramente el alcance de la aplicación web, permita a los miembros de la junta aprobar el desarrollo del proyecto y proporcione toda la información que los desarrolladores necesitan para comenzar su trabajo.
+Los **Autores** esperan que este documento defina claramente el alcance de la aplicación web, permita a los miembros de la junta aprobar el desarrollo del proyecto y proporcione toda la información que los desarrolladores necesitan para comenzar su trabajo.
 
-*Nota:* Este documento no pretende ser una descripción final de la aplicación web que se creará. A medida que avanza el proyecto, se pueden agregar funciones adicionales y se pueden perfeccionar las especificaciones que se dan en este documento. Estos cambios deben realizarse en consulta con las partes interesadas. Los directores de proyecto deben tomar las decisiones finales sobre tales adiciones y mejoras.
+**Nota:** Este documento no pretende ser una descripción final de la aplicación web que se creará. A medida que avanza el proyecto, se pueden agregar funciones adicionales y se pueden perfeccionar las especificaciones que se dan en este documento. Estos cambios deben realizarse en consulta con las partes interesadas. Los directores de proyecto deben tomar las decisiones finales sobre tales adiciones y mejoras.
 
 ## Descripción general de la aplicación web para compartir fotos
 
@@ -96,36 +96,36 @@ Figura 1. Resumen de los casos de Uso
 ## Transcripción de las entrevistas con el usuario
 El 20 de mayo de 2018, los Autores entrevistaron a Mark Alexieff, un cliente a largo plazo de Adventure Works. Es un fotógrafo entusiasta además de ciclista y está entusiasmado con la aplicación web propuesta. Los Autores han incluido esta entrevista aquí porque creemos que Mark tiene buenas ideas sobre cómo debe verse y comportarse la aplicación web, lo que puede guiar a los desarrolladores a medida que crean páginas web.
 
-*Autores:* Háblenos de su bicicleta de montaña.   
-*Mark Alexieff:* Llevo veinte años pilotando. Actualmente vivo en Albany, NY, y viajo todos los fines de semana, generalmente en Catskills pero a veces más lejos.   
-*Autores:* ¿Y haces fotos?   
-*MA:* ¡Sí! Supongo que he estado tomando fotos durante todo ese tiempo.   
-*Autores:* ¿Solo instantáneas o algo más serio?   
-*MA:* Bueno, trato de tomarlo en serio. Tengo una cámara réflex digital y disparo unas 50 tomas en un día normal. Obviamente, muchos paisajes, pero también me gusta hacer tomas de acción de mis amigos mientras viajan.   
-*Autores:* ¿Compartes esas fotos en sitios de Internet?   
-*MA:* Uso mucho Flickr, pero me interesaría usar un sitio solo para ciclistas de montaña.   
-*Autores:* ¿Qué información le gustaría ver con cada foto?   
-*MA:* La foto es lo más importante. Me gustaría ver que todo lo demás se reduzca al mínimo.   
-*Autores:* ¿Pero seguramente necesitas saber quién tomó una foto y demás?   
-*MA:* Sí, necesitas algunas cosas. Debería poder agregar un título a sus fotos y ese título debe ser muy claro siempre que se muestre la foto.   
-*Autores:* ¿Tanto para miniaturas como para pantallas de tamaño completo?   
-*MA:* Eso creo. Además, me gustaría ver quién tomó cada foto donde sea que se use. Otra información, como la fecha en la que se tomó, es menos importante, pero debería poder encontrarla cuando esté interesado.   
-*Autores:* Correcto. ¿Qué más crees que te gustaría contarles a otros usuarios sobre tus fotos?   
-*MA:* Bueno, creo que la mejor opción es aplicar una gran descripción. De esa forma, si quieres hablar sobre dónde se tomó la foto, quién está en ella, cómo estuvo el clima, puedes agregarla. Es bueno agregar un contexto como ese.   
-*Autores:* ¿Le gustaría almacenar información técnica sobre la toma?   
-*MA:* ¿Cómo qué?   
-*Autores:* Estaba pensando en exposiciones, aperturas, ajustes de flash ...   
-*MA:* Hablando por mí, no. Casi nunca grabo esas cosas en ese momento porque quiero seguir montando. Conozco fotógrafos que lo escriben religiosamente o lo obtienen de su cámara, pero yo no.   
-*Autores:* ¿Entonces tal vez deberíamos proporcionar campos opcionales?   
-*MA:* Ya hablamos sobre la disponibilidad de una descripción. Si alguien quiere compartir esa información, puede usarla, ¿no es así?   
-*Autores:* Si. OKAY. ¿Te gustan los bordes alrededor de las fotos?   
-*MA:* A veces. Depende de la foto. ¿Podrías darme una opción?   
-*Autores:* Posiblemente. ¿Le gustaría poder elegir un color para su borde?   
-*MA:* Casi siempre sería en blanco o negro en una aplicación web. O nada. También debe tener cuidado con los colores que usa.   
-*Autores:* ¿De qué manera?   
-*MA:* Trate de ser neutral. Si tiene un color de fondo brillante detrás de las fotos, realmente cambiará su impacto. De hecho, diría que no use un borde y haga que el color de fondo sea blanco o negro. Gray podría estar bien.   
-*Autores:* OK. ¿Qué pasa con los comentarios ... te gustaría verlos a la derecha de una foto?   
-*MA:* Debajo de la foto, definitivamente. La mayoría de las veces, no me interesan los comentarios. Solo leo comentarios si quiero saber dónde se rodó o los nombres de las personas en la foto. Algunas fotos me interesan más y luego puedo desplazarme hacia abajo para ver los comentarios. La mayoría de las veces, no quiero que los comentarios me distraigan.   
+**Autores:** Háblenos de su bicicleta de montaña.   
+**Mark Alexieff:** Llevo veinte años pilotando. Actualmente vivo en Albany, NY, y viajo todos los fines de semana, generalmente en Catskills pero a veces más lejos.   
+**Autores:** ¿Y haces fotos?   
+**MA:** ¡Sí! Supongo que he estado tomando fotos durante todo ese tiempo.   
+**Autores:** ¿Solo instantáneas o algo más serio?   
+**MA:** Bueno, trato de tomarlo en serio. Tengo una cámara réflex digital y disparo unas 50 tomas en un día normal. Obviamente, muchos paisajes, pero también me gusta hacer tomas de acción de mis amigos mientras viajan.   
+**Autores:** ¿Compartes esas fotos en sitios de Internet?   
+**MA:** Uso mucho Flickr, pero me interesaría usar un sitio solo para ciclistas de montaña.   
+**Autores:** ¿Qué información le gustaría ver con cada foto?   
+**MA:** La foto es lo más importante. Me gustaría ver que todo lo demás se reduzca al mínimo.   
+**Autores:** ¿Pero seguramente necesitas saber quién tomó una foto y demás?   
+**MA:** Sí, necesitas algunas cosas. Debería poder agregar un título a sus fotos y ese título debe ser muy claro siempre que se muestre la foto.   
+**Autores:** ¿Tanto para miniaturas como para pantallas de tamaño completo?   
+**MA:** Eso creo. Además, me gustaría ver quién tomó cada foto donde sea que se use. Otra información, como la fecha en la que se tomó, es menos importante, pero debería poder encontrarla cuando esté interesado.   
+**Autores:** Correcto. ¿Qué más crees que te gustaría contarles a otros usuarios sobre tus fotos?   
+**MA:** Bueno, creo que la mejor opción es aplicar una gran descripción. De esa forma, si quieres hablar sobre dónde se tomó la foto, quién está en ella, cómo estuvo el clima, puedes agregarla. Es bueno agregar un contexto como ese.   
+**Autores:** ¿Le gustaría almacenar información técnica sobre la toma?   
+**MA:** ¿Cómo qué?   
+**Autores:** Estaba pensando en exposiciones, aperturas, ajustes de flash ...   
+**MA:** Hablando por mí, no. Casi nunca grabo esas cosas en ese momento porque quiero seguir montando. Conozco fotógrafos que lo escriben religiosamente o lo obtienen de su cámara, pero yo no.   
+**Autores:** ¿Entonces tal vez deberíamos proporcionar campos opcionales?   
+**MA:** Ya hablamos sobre la disponibilidad de una descripción. Si alguien quiere compartir esa información, puede usarla, ¿no es así?   
+**Autores:** Si. OKAY. ¿Te gustan los bordes alrededor de las fotos?   
+**MA:** A veces. Depende de la foto. ¿Podrías darme una opción?   
+**Autores:** Posiblemente. ¿Le gustaría poder elegir un color para su borde?   
+**MA:** Casi siempre sería en blanco o negro en una aplicación web. O nada. También debe tener cuidado con los colores que usa.   
+**Autores:** ¿De qué manera?   
+**MA:** Trate de ser neutral. Si tiene un color de fondo brillante detrás de las fotos, realmente cambiará su impacto. De hecho, diría que no use un borde y haga que el color de fondo sea blanco o negro. Gray podría estar bien.   
+**Autores:** OK. ¿Qué pasa con los comentarios ... te gustaría verlos a la derecha de una foto?   
+**MA:** Debajo de la foto, definitivamente. La mayoría de las veces, no me interesan los comentarios. Solo leo comentarios si quiero saber dónde se rodó o los nombres de las personas en la foto. Algunas fotos me interesan más y luego puedo desplazarme hacia abajo para ver los comentarios. La mayoría de las veces, no quiero que los comentarios me distraigan.   
 
 ## Requerimientos técnicos
 
